@@ -15,8 +15,6 @@ What does it do;
  - Authentication via API
  - Add, delete and update users via API
 
-What is the route list;
-![route list](http://oi67.tinypic.com/vzty78.jpg)
 
 How can I use?
 -
